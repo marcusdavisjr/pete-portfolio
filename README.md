@@ -69,7 +69,7 @@ I encountered a bug where the text that was inside of the Portfolio section of t
 ## Process Documentation
 
 ### GitHub Commit History
-[Insert a screenshot or a link to your GitHub repository’s commit history here to show your progress over time.]
+(https://github.com/marcusdavisjr/pete-portfolio/commits)
 
 ### Replit Development Screenshots
 **Navigation Spacing**

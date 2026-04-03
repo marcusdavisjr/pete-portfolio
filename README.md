@@ -21,6 +21,23 @@ The project is a hypothetical single page web portfolio for an artist named Pete
 ### Wireframe: 
 [image]
 
+### Colors:
+* Background color: `#eae2b7`
+
+* Text color : `#003049`
+
+* Link color: `#d62828`
+
+* Link hover color: `#a42323`
+
+* Horizontal line: `black`
+
+
+### Fonts:
+* Body font: `Source Sans Pro, Tahoma, Geneva, Verdana, sans-serif`
+
+* Header font: `Playfair Display, Times, serif`
+
  
 ## Design Trade-offs
 This is a very simple single page website, so there were no major trade-offs that I needed to make in the design to fulfill the requirements of the project.

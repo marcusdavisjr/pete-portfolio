@@ -16,10 +16,10 @@ The project is a hypothetical single page web portfolio for an artist named Pete
 5. Use Gemini and W3C Markup Validation Serivce to validate and debug code.
 
 ### Provided Mockup: 
-[image]
+![Pete-Portfolio mockup](images/screenshots/mockup.png)
 
 ### Wireframe: 
-[image]
+![Wireframe](images/screenshots/wireframe.png)
 
 ### Colors:
 * Background color: `#eae2b7`
@@ -72,4 +72,12 @@ I encountered a bug where the text that was inside of the Portfolio section of t
 [Insert a screenshot or a link to your GitHub repository’s commit history here to show your progress over time.]
 
 ### Replit Development Screenshots
-[Insert screenshots of your Replit workspace illustrating key milestones or specific technical decisions mentioned above.]
+**Navigation Spacing**
+![Navigation CSS](images/screenshots/nav-css.png)
+
+![Navigation](images/screenshots/navigation.png)
+
+******
+
+**Content Section in  `<article>` container**
+![Contact section HTML](images/screenshots/contact-article.png)
